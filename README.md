@@ -1,5 +1,10 @@
 # Robotics Challenges
 
-This collection of challenges is insteaded for students to do by themselves or in competition with other students. Ultimately, the aim of completing these challenges is to create learning experiences.
-
-The challenges are written in an assignment specification format. These are not guided (guided material for learning already exists everywhere). The challenges are designed to be quick to setup and the robot kits are easily accessible and cheap.
+These challenges are:
+- Intended to be learning experiences
+- To host friendly competitions
+- Written in an assignment specification format
+- Targeted for UNSW students :)
+- Accessible and cheap for everyone involved
+- Doable within 2 months as a student, or 1-2 weeks full time
+- Not guided (guided material for learning already exists everywhere)
