@@ -2,6 +2,8 @@
 
 Summary of challenge
 
+## Teams
+
 ## Requirements
 
 - Requirement 1.
@@ -11,3 +13,7 @@ Summary of challenge
 ## Objectives / Points System
 
 - (1 pt) for doing something.
+
+## Resources
+
+## FAQ
