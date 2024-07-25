@@ -2,6 +2,8 @@
 
 > This is just a list of questions to prompt the management team to think about what they need to do.
 
+> Write step-by-step instructions.
+
 ## Preparation
 
 - Who's in charge overall?
@@ -48,3 +50,9 @@
 - What do teams need to do when they're competing and not competing?
 - Will there be prizes?
 - Do students/staff need to do anything after the competition?
+
+## Post-Comp
+
+- Who's in charge of this?
+- Who will clean up after the venue?
+- Will there be surveys?
